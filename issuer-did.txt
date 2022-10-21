@@ -1,0 +1,18 @@
+{
+  did: 'did:key:z6MkkJprsD2gkSDYYKokmRr4xKvQRCHCDz896vcxby2PhbhU',
+  registrationStatus: 'COMPLETED',
+  localMetadata: {
+    keys: [ [Object], [Object] ],
+    registered: 1666315548566,
+    initialDidDocument: {
+      '@context': 'https://w3.org/ns/did/v1',
+      id: 'did:key:z6MkkJprsD2gkSDYYKokmRr4xKvQRCHCDz896vcxby2PhbhU',
+      publicKey: [Array],
+      authentication: [Array],
+      assertionMethod: [Array],
+      capabilityDelegation: [Array],
+      capabilityInvocation: [Array],
+      keyAgreement: [Array]
+    }
+  }
+}
